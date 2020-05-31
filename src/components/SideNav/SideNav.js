@@ -10,8 +10,8 @@ export const SideNav = ({ handleSectionClick }) => {
                 className="avatar"
                 alt="avatar"
             />
-            <h2 className="main-name">Madhav Bahl</h2>
-            <p className="subtitle">"A Cadet Who Codes"</p>
+            <h2 className="main-name">Shahab Hashmi</h2>
+            <p className="subtitle">"Dont let your dreams die!!!"</p>
             <div className="sections-list">
                 <p className="section-list-element" onClick={() => handleSectionClick("about")}>About Me</p>
                 <p className="section-list-element" onClick={() => handleSectionClick("skills")}>Skills</p>
